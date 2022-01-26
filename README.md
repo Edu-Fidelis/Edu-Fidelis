@@ -69,6 +69,31 @@
   <a href = "mailto:eduardo.fidelis99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edu-fidelis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
+<!-- <h1 align="center">Desafios e Soluções :books:</h1>
+
+<!-- C Sharp -->
+<details>
+    <summary><strong>C#</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Introdução a Programação com C# -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Introdução a Programação com C#</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            
+    </div>
+</details> -->
