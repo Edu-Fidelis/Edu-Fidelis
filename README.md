@@ -77,23 +77,10 @@
 
 <!-- C Sharp -->
 <details>
-    <summary><strong>C#</strong></summary>
+    <summary><strong>Front End</strong></summary>
     <br />
     <div align="left">
-        <!-- Introdução a Programação com C# -->
-        <table border=1>
-            <tr>
-                <th colspan="4">Introdução a Programação com C#</th>
-            </tr>
-            <tr>
-                <th colspan="4"></th>
-            </tr>
-            <tr>
-                <th>Etapa</th>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            
-    </div>
-</details> -->
+        <a href="https://github.com/Edu-Fidelis/SnakeGame">Snake Game
+        <a href="https://github.com/Edu-Fidelis/SpaceShooter">SpaceShooter
+</details> 
+
