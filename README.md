@@ -82,5 +82,75 @@
     <div align="left">
         <a href="https://github.com/Edu-Fidelis/SnakeGame">Snake Game
         <a href="https://github.com/Edu-Fidelis/SpaceShooter">SpaceShooter
-</details> 
-
+          <a href="https://github.com/Edu-Fidelis/JogoDeNaves">Jogo de Naves
+            <a href="https://github.com/Edu-Fidelis/JogoDaMemoria">Jogo da Memória
+              <a href="https://github.com/Edu-Fidelis/JogoDoDino">Jogo do Dino
+                <a href="https://github.com/Edu-Fidelis/Genius">Jogo Genius
+                  <a href="https://github.com/Edu-Fidelis/Instagram">Instagram Clone
+                    <a href="https://github.com/Edu-Fidelis/NetflixInterfaceClone">Netflix Interface Clone
+</details>
+<details>
+    <summary><strong>Front End</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/SnakeGame">Snake Game
+        <a href="https://github.com/Edu-Fidelis/SpaceShooter">SpaceShooter
+          <a href="https://github.com/Edu-Fidelis/JogoDeNaves">Jogo de Naves
+            <a href="https://github.com/Edu-Fidelis/JogoDaMemoria">Jogo da Memória
+              <a href="https://github.com/Edu-Fidelis/JogoDoDino">Jogo do Dino
+                <a href="https://github.com/Edu-Fidelis/Genius">Jogo Genius
+                  <a href="https://github.com/Edu-Fidelis/Feed-A-Star-Mole">Feed a Star-mole
+                  <a href="https://github.com/Edu-Fidelis/Instagram">Instagram Clone
+                    <a href="https://github.com/Edu-Fidelis/NetflixInterfaceClone">Netflix Interface Clone
+                      <a href="https://github.com/Edu-Fidelis/Calculator">Calculadora
+</details>
+<details>
+    <summary><strong>Back End</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/Google-Cloud-Dataproc">Google Cloud Dataproc
+        <a href="https://github.com/Edu-Fidelis/AWS-Big-Data-Desafio">AWS Big Data Desafio
+          <a href="https://github.com/Edu-Fidelis/SexyAPI">Sexy API
+            <a href="https://github.com/Edu-Fidelis/BackgroundMail">BackgroundMail
+              <a href="https://github.com/Edu-Fidelis/CriptoAPI">Cripto API
+                <a href="https://github.com/Edu-Fidelis/CLI-tool">CLI Tool
+                  <a href="https://github.com/Edu-Fidelis/Vaquinha-Testes">Instagram Clone
+                    <a href="https://github.com/Edu-Fidelis/api_cidades_br">API Cidades Brasileiras 
+                <a href="https://github.com/Edu-Fidelis/APImanagement">Gerenciamento de pessoas em API
+                  <a href="https://github.com/Edu-Fidelis/CadastroDeSeries">Cadastro De Séries
+                    <a href="https://github.com/Edu-Fidelis/TransferenciaBancaria">Transferência Bancária
+                <a href="https://github.com/Edu-Fidelis/CadastroAlunosCsharp">Cadastro de Alunos C#
+                  <a href="https://github.com/Edu-Fidelis/PrimeiraAppConsoledotNet">App Console .Net
+                    <a href="https://github.com/Edu-Fidelis/JogoAdvinheONumero">Jogo Advinhe O Número
+                    <a href="https://github.com/Edu-Fidelis/JogoDaForca">Jogo Da Forca
+</details>
+<details>
+    <summary><strong>Cloud</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/Google-Cloud-Dataproc">Google Cloud Dataproc
+</details>
+<details>
+    <summary><strong>Data Science</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/ProjetoDataScience">Projeto - Data Science
+        <a href="https://github.com/Edu-Fidelis/Cap15Rproj">Projeto em R do Capítulo 15 (DSA)
+          <a href="https://github.com/Edu-Fidelis/Vaquinha-Testes">Vaquinha
+            <a href="https://github.com/Edu-Fidelis/architecture_ruby">iEat
+</details>
+<details>
+    <summary><strong>FullStack</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/ChatBotFit">ChatBot Fit
+        <a href="https://github.com/Edu-Fidelis/PWA-covid">Progressive Web Application Covid-19
+          <a href="https://github.com/Edu-Fidelis/Vaquinha-Testes">Vaquinha
+            <a href="https://github.com/Edu-Fidelis/architecture_ruby">iEat
+</details>
+<details>
+    <summary><strong>IoT</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/HumAndTempMonitor">Monitor de Temperatura e Umidade
+</details>
