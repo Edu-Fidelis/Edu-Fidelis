@@ -73,9 +73,6 @@
  
 </div>
 
-<!-- <h1 align="center">Desafios e Soluções :books:</h1>
-
-<!-- C Sharp -->
 <details>
     <summary><strong>Front End</strong></summary>
     <br />
@@ -86,8 +83,25 @@
             <a href="https://github.com/Edu-Fidelis/JogoDaMemoria">Jogo da Memória <br />
               <a href="https://github.com/Edu-Fidelis/JogoDoDino">Jogo do Dino <br />
                 <a href="https://github.com/Edu-Fidelis/Genius">Jogo Genius <br />
+                  <a href="https://github.com/Edu-Fidelis/Feed-A-Star-Mole">Feed a Star-mole <br />
                   <a href="https://github.com/Edu-Fidelis/Instagram">Instagram Clone <br />
                     <a href="https://github.com/Edu-Fidelis/NetflixInterfaceClone">Netflix Interface Clone <br />
+                      <a href="https://github.com/Edu-Fidelis/Calculator">Calculadora <br />
+</details>
+<details>
+    <summary><strong>Front End</strong></summary>
+    <br />
+    <div align="left">
+        <a href="https://github.com/Edu-Fidelis/SnakeGame">Snake Game <br />
+        <a href="https://github.com/Edu-Fidelis/SpaceShooter">SpaceShooter <br />
+          <a href="https://github.com/Edu-Fidelis/JogoDeNaves">Jogo de Naves <br />
+            <a href="https://github.com/Edu-Fidelis/JogoDaMemoria">Jogo da Memória <br />
+              <a href="https://github.com/Edu-Fidelis/JogoDoDino">Jogo do Dino <br />
+                <a href="https://github.com/Edu-Fidelis/Genius">Jogo Genius <br />
+                  <a href="https://github.com/Edu-Fidelis/Feed-A-Star-Mole">Feed a Star-mole <br />
+                  <a href="https://github.com/Edu-Fidelis/Instagram">Instagram Clone <br />
+                    <a href="https://github.com/Edu-Fidelis/NetflixInterfaceClone">Netflix Interface Clone <br />
+                      <a href="https://github.com/Edu-Fidelis/Calculator">Calculadora <br />
 </details>
 <details>
     <summary><strong>Front End</strong></summary>
